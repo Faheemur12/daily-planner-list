@@ -1,0 +1,252 @@
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\ApplicationInsights.config
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\csc.exe
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\vbc.exe
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll.config
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.pdb
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\EntityFramework.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Owin.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\WebGrease.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.pdb
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\EntityFramework.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csprojResolveAssemblyReference.cache
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.dll
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.pdb
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.Migrations.DailyPlanner1.resources
+c:\users\rahma\documents\visual studio 2015\Projects\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csproj.GenerateResource.Cache
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\ApplicationInsights.config
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\csc.exe
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\vbc.exe
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll.config
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.pdb
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\EntityFramework.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\WebGrease.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.pdb
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\EntityFramework.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csprojResolveAssemblyReference.cache
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.Migrations.DailyPlanner1.resources
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csproj.GenerateResource.Cache
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.dll
+C:\Users\rahma\OneDrive\Desktop\Video3_half_and working\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.pdb
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\ApplicationInsights.config
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\csc.exe
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\vbc.exe
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll.config
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\DailyPlannerList.pdb
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\EntityFramework.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Owin.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\WebGrease.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.Web.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Helpers.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Mvc.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Optimization.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.Razor.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\System.Web.WebPages.Razor.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Antlr3.Runtime.pdb
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Newtonsoft.Json.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\EntityFramework.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\EntityFramework.SqlServer.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csprojResolveAssemblyReference.cache
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.Migrations.DailyPlanner1.resources
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.csproj.GenerateResource.Cache
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.dll
+C:\Users\rahma\OneDrive\Desktop\Final_3.5\DailyPlannerList\DailyPlannerList\obj\Debug\DailyPlannerList.pdb
